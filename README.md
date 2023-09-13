@@ -1,4 +1,4 @@
-craeting a model on MNIST dataset using LeNet Architecture
+Creating a model on MNIST dataset using LeNet Architecture
 
 The first layer is the input layer with feature map size 32X32X1.
 
